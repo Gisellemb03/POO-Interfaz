@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author pedro
+ * 
  */
 public class GuiTelevision extends javax.swing.JInternalFrame {
 
