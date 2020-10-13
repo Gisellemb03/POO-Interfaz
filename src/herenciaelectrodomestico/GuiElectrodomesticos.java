@@ -13,7 +13,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author pedro
+ g  @author  
  */
 public class GuiElectrodomesticos extends javax.swing.JInternalFrame {
 
