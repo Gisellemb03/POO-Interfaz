@@ -12,8 +12,7 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 /**
- *
- * @author pedro
+ 
  */
 public class GuiLavadora extends javax.swing.JInternalFrame {
 
